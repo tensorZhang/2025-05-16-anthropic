@@ -14,3 +14,7 @@ localhost:8080/actuator/metrics/gen_ai.client.token.usage 。该指标集成由�
 
 # ChatMemory如何自定义存储？
 
+
+# 自定义rag的向量存储应该如何处理？
+QuestionAnswerAdvisor
+
