@@ -1,5 +1,8 @@
 记录此项目的思考
 
+# 项目介绍连接
+https://spring.io/blog/2025/05/20/your-first-spring-ai-1
+
 # 分析token消耗过快的处理方案
 
 1. 这个是后期监控：
